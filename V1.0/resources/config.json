@@ -1,0 +1,14 @@
+﻿{
+  "Host": "110.232.114.117",
+  "Port": 5400,
+  "GameFont": "sourcesansproblack",
+  "EntityNameFont": "sourcesansproblack",
+  "ChatBubbleFont": "sourcesansproblack",
+  "ActionMsgFont": "sourcesansproblack",
+  "UIFont": "sourcesanspro,8",
+  "ChatLines": 100,
+  "MenuMusic": "RPG-Theme_v001_Looping.ogg",
+  "MenuBackground": "backgrounds.png",
+  "IntroImages": [],
+  "UpdateUrl": ""
+}
